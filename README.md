@@ -28,7 +28,7 @@
 
 #### Конфигурационный файл haproxy
 
-![Конфигурационный файл haproxy](https://github.com/SLOV1977/sflt-homeworks-02/tree/main/task_1/haproxy.cfg)
+[Конфигурационный файл haproxy](task_1/haproxy.cfg)
 
 #### Скриншоты перенаправления запросов на разные серверы при обращении к HAProxy
 
@@ -46,7 +46,7 @@
 
 #### Конфигурационный файл haproxy
 
-![Конфигурационный файл haproxy](https://github.com/SLOV1977/sflt-homeworks-02/tree/main/task_2/haproxy.cfg)
+[Конфигурационный файл haproxy](task_2/haproxy.cfg)
 
 #### Скриншоты перенаправления запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него
 
